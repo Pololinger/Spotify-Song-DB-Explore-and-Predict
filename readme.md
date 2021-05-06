@@ -37,7 +37,7 @@
 [1]: ./assets/comedy.png
 [2]: ./assets/song_popularity_by_genre.png
 [3]: ./assets/correlation_matrix.png
-[4]: ./assets/electro.png
+[4]: ./assets/electro.PNG
 
 
 
