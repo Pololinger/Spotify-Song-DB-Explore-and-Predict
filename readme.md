@@ -31,6 +31,9 @@
 ##### The models perform very well for genres that are very distinct such as 'comedy' and 'opera' but less so for others. The classifier is also struggling with the high number of genres. Reducing the number of genres in the dataframe improved the performance. 
 
 
+#### Part 3 - Binary classification of song popularity
+
+##### Determined a 'popularity' threshold to spliit the dataframe into popular and unpopular. After creating a balanced sample, Random Forest produced good results.
 
 
 
